@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-The code is available in
+The full code and readme is available in https://github.com/yinxiangshi/dbms.
 </body>
 </html>
